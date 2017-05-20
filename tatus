@@ -1,0 +1,35 @@
+[33mcommit fdbcea75a744c0f8040da124518155c1987e2417[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 06:57:35 2017 -0700
+
+    Add an h1 tag
+
+[33mcommit 17c855b08052cfd50cfb94177f44c85506b23d9c[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 02:42:01 2017 -0700
+
+    Add baz
+
+[33mcommit e30ecdd289b6fcb172ef00a37ccec0705184f218[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 02:38:36 2017 -0700
+
+    Add content to index.html
+
+[33mcommit 48b3c9ba3ade692e3b8f9c4e2c5fe6e6f3620775[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 02:35:25 2017 -0700
+
+    Add bar
+
+[33mcommit 118c767caf260de1feeafbebce3f34b346044718[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 02:34:33 2017 -0700
+
+    foo
+
+[33mcommit 1120f89adba76ca860401bc8d8b8aaf7fe12ba68[m
+Author: Noxtern <noxtern@gmail.com>
+Date:   Wed May 17 02:27:22 2017 -0700
+
+    Initialize repository
